@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d77a6216-ed53-4dae-ae94-e17473543c57)# Snake Game
+# Snake Game
 
 Welcome to the classic Snake Game built using Python and Tkinter! This project is a simple, fun, and educational game where the player controls a snake that grows longer as it eats food. The objective is to avoid collisions with the walls or the snake's own body while scoring as many points as possible.
 
